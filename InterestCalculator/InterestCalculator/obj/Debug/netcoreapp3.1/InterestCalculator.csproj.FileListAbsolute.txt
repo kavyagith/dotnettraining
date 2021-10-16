@@ -1,0 +1,16 @@
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.exe
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.deps.json
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.json
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.runtimeconfig.dev.json
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.dll
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\bin\Debug\netcoreapp3.1\InterestCalculator.pdb
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csproj.AssemblyReference.cache
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.Form1.resources
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csproj.GenerateResource.cache
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfoInputs.cache
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.AssemblyInfo.cs
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.csproj.CoreCompileInputs.cache
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.dll
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.pdb
+D:\Wpf-Training\code-sample\InterestCalculator\InterestCalculator\obj\Debug\netcoreapp3.1\InterestCalculator.genruntimeconfig.cache
