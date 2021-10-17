@@ -1,0 +1,29 @@
+﻿<Window x:Class="Wpf_Books.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:b="clr-namespace:Wpf_Books"
+        mc:Ignorable="d"
+        Title="Book List" Height="450" Width="800">
+
+    <StackPanel>
+    <TextBlock FontSize="20" Foreground="Blue">MY BOOK LIST</TextBlock>
+    <ListBox>
+        
+        <ListBoxItem>
+            <b:Book Title="The Cursed Child" Author="JK Rowling" Price="599"/>
+        </ListBoxItem>
+        <ListBoxItem>
+            <b:Book Title="The Accursed God" Author="Vivek Dutta" Price="499"/>
+        </ListBoxItem>
+        <ListBoxItem>
+            <b:Book Title="The Lord of the Rings" Author="Tolkien" Price="599"/>
+        </ListBoxItem>
+        <ListBoxItem>
+             <b:Book Title="The Alchemist" Author="Paulo Coelho" Price="599"/>
+        </ListBoxItem>
+        </ListBox>
+        <Button>Show details</Button>
+    </StackPanel>
+</Window>

@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalculator", "InterestCalculator\InterestCalculator.csproj", "{DC800D20-8760-4563-9AC1-395F23FC83CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{55AF263A-7209-49E2-AB19-82C670B929CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-Books", "Wpf-Books\Wpf-Books.csproj", "{3F8597CD-162C-4035-AEC1-458BEB4E2D83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DC800D20-8760-4563-9AC1-395F23FC83CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC800D20-8760-4563-9AC1-395F23FC83CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC800D20-8760-4563-9AC1-395F23FC83CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55AF263A-7209-49E2-AB19-82C670B929CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AF263A-7209-49E2-AB19-82C670B929CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AF263A-7209-49E2-AB19-82C670B929CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AF263A-7209-49E2-AB19-82C670B929CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8597CD-162C-4035-AEC1-458BEB4E2D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8597CD-162C-4035-AEC1-458BEB4E2D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8597CD-162C-4035-AEC1-458BEB4E2D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8597CD-162C-4035-AEC1-458BEB4E2D83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

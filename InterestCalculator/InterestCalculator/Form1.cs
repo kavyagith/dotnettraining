@@ -32,8 +32,6 @@ namespace InterestCalculator
             {
                 MessageBox.Show("Enter the values for principal, rate and period");
             }
-            
-           
         }
     }
 }
