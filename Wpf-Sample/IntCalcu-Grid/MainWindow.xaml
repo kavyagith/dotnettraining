@@ -33,9 +33,9 @@
         <TextBox x:Name="periodTextBox" Grid.Row="3" Grid.Column="1" Margin="5"/>
         <Button Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Content="Calculate" FontSize="20" FontWeight="Bold" Background="Gray" Margin="5" Click="Button_Click"/>
         <Label Content="Interest" Grid.Row="5" Grid.Column="0" FontSize="20" VerticalAlignment="Center"/>
-        <TextBox x:Name="interestTextBox" Grid.Row="5" Grid.Column="1" IsReadOnly="True" />
+        <TextBlock FontSize="30" x:Name="interestTextBox" Grid.Row="5" Grid.Column="1" />
         <Label Content="Amount" Grid.Row="6" Grid.Column="0" FontSize="20" VerticalAlignment="Center"/>
-        <TextBox x:Name="amountTextBox" Grid.Row="6" Grid.Column="1" IsReadOnly="True"/>
+        <TextBlock FontSize="30" FontWeight="Heavy" x:Name="amountTextBox" Grid.Row="6" Grid.Column="1" />
         <Label x:Name="statusBar" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" VerticalAlignment="Center" Background="CornflowerBlue"/>
     </Grid>
 </Window>
