@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8pWUL2NO7TCk0q4aeVEmRVbwpec1uWBX8DSopBnT3+FXEpxB5W83FGtsRNzH7/8zPVeMaW0t80BiRAimWUoR+A==",
+  "success": true,
+  "projectFilePath": "D:\\Wpf-Training\\wpf-training-name\\kavya\\Programs\\UnitTest01\\ConceptArchitect.Finance\\ConceptArchitect.Finance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\20100224\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\20100224\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
